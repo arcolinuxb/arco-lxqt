@@ -140,7 +140,7 @@ libdvdcss
 pulseaudio
 pulseaudio-alsa
 pavucontrol
-volumeicon
+#volumeicon
 
 #bluetooth
 blueberry
@@ -230,8 +230,8 @@ firefox
 galculator
 geany
 gimp
-gmrun
-gsimplecal
+#gmrun
+#gsimplecal
 guvcview
 imagemagick
 inkscape
@@ -244,7 +244,7 @@ qbittorrent
 scrot
 simplescreenrecorder
 termite
-tint2
+#tint2
 variety
 vlc
 
@@ -286,14 +286,14 @@ lightdm
 #lx-applications
 #lxappearance
 #lxappearance-gtk3
-lxappearance-obconf
+#lxappearance-obconf
 #lxappearance-obconf-gtk3
 lxrandr
 
 #openbox
 gtk2-perl
-obconf
-openbox
+#obconf
+#openbox
 gtk-engine-murrine
 
 #themes
@@ -348,7 +348,7 @@ p7zip
 plank
 playerctl
 polkit
-polkit-gnome
+#polkit-gnome
 python2-dbus
 python2-xdg
 #qt4
@@ -359,7 +359,7 @@ qt5-webkit
 powertop
 reflector
 #redshift
-rofi
+#rofi
 rxvt-unicode
 simple-scan
 #shotwell
@@ -424,10 +424,10 @@ zafiro-icon-theme
 #b43-firmware
 
 #openbox
-obkey
-obmenu3
-obmenu-generator
-perl-linux-desktopfiles
+#obkey
+#obmenu3
+#obmenu-generator
+#perl-linux-desktopfiles
 
 #tools
 mkinitcpio-openswap
@@ -476,13 +476,13 @@ yay-bin
 
 #############################
 #arcolinux_repo for arcolinux
-arcolinux-applications-git
+#arcolinux-applications-git
 #arcolinux-arc-themes-git
 arcolinux-arc-themes-nico-git
 #arcolinux-awesome-git
 arcolinux-bin-git
 #arcolinux-bspwm-git
-arcolinux-common-git
+#arcolinux-common-git
 #arcolinux-config-cinnamon-git
 #arcolinux-config-deepin-git
 #arcolinux-config-git
@@ -493,7 +493,7 @@ arcolinux-config-lxqt-git
 #arcolinux-config-xmobar-git
 #arcolinux-config-xmonad-git
 arcolinux-conky-collection-git
-arcolinux-docs-git
+#arcolinux-docs-git
 #arcolinux-faces-git
 arcolinux-fonts-git
 arcolinux-geany-git
@@ -512,8 +512,8 @@ arcolinux-lxqt-applications-add-git
 arcolinux-lxqt-applications-hide-git
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
-arcolinux-nitrogen-git
-arcolinux-oblogout
+#arcolinux-nitrogen-git
+#arcolinux-oblogout
 #arcolinux-oblogout-awesome
 #arcolinux-oblogout-bspwm
 #arcolinux-oblogout-qtile
@@ -521,24 +521,24 @@ arcolinux-oblogout-themes-git
 #arcolinux-oblogout-xmonad
 arcolinux-obmenu-generator-git
 #arcolinux-obmenu-generator-minimal-git
-arcolinux-openbox-configs-git
-arcolinux-openbox-themes-git
+#arcolinux-openbox-configs-git
+#arcolinux-openbox-themes-git
 arcolinux-pipemenus-git
 arcolinux-plank-git
 arcolinux-plank-themes-git
-arcolinux-polybar-git
+#arcolinux-polybar-git
 arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 #arcolinux-qtile-git
-arcolinux-rofi-git
-arcolinux-rofi-themes-git
+#arcolinux-rofi-git
+#arcolinux-rofi-themes-git
 arcolinux-root-git
-arcolinux-slim
-arcolinux-slimlock-themes-git
+#arcolinux-slim
+#arcolinux-slimlock-themes-git
 arcolinux-system-config-git
 arcolinux-termite-themes-git
-arcolinux-tint2-git
-arcolinux-tint2-themes-git
+#arcolinux-tint2-git
+#arcolinux-tint2-themes-git
 arcolinux-variety-git
 arcolinux-wallpapers-git
 #arcolinux-xfce4-panel-profiles-git
@@ -552,15 +552,15 @@ exo
 garcon
 gtk-xfce-engine
 thunar
-xfce4-appfinder
-xfce4-panel
-xfce4-power-manager
+#xfce4-appfinder
+#xfce4-panel
+#xfce4-power-manager
 xfce4-session
-xfce4-settings
-xfce4-terminal
-xfconf
+#xfce4-settings
+#xfce4-terminal
+#xfconf
 xfdesktop
-xfwm4
+#xfwm4
 #xfwm4-themes
 
 
@@ -568,8 +568,8 @@ xfwm4
 #mousepad
 #orage
 #parole
-ristretto
-xfburn
+#ristretto
+#xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
 #xfce4-clipman-plugin
@@ -586,9 +586,9 @@ xfburn
 #xfce4-mpc-plugin
 #xfce4-netload-plugin
 #xfce4-notes-plugin
-xfce4-notifyd
+#xfce4-notifyd
 #xfce4-pulseaudio-plugin
-xfce4-screenshooter
+#xfce4-screenshooter
 #xfce4-sensors-plugin
 #xfce4-smartbookmark-plugin
 #xfce4-systemload-plugin
@@ -624,4 +624,4 @@ qt5-xmlpatterns
 lxqt
 pavucontrol-qt
 xscreensaver
-lxqt-arc-dark-theme
+lxqt-arc-dark-theme-git
