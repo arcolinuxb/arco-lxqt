@@ -291,7 +291,7 @@ lightdm
 lxrandr
 
 #openbox
-gtk2-perl
+#gtk2-perl
 #obconf
 #openbox
 gtk-engine-murrine
@@ -377,7 +377,7 @@ w3m
 webkit2gtk
 wmctrl
 xapps
-xcape
+#xcape
 xdg-desktop-portal-gtk
 youtube-dl
 zenity
@@ -519,7 +519,7 @@ arcolinux-neofetch-git
 #arcolinux-oblogout-qtile
 arcolinux-oblogout-themes-git
 #arcolinux-oblogout-xmonad
-arcolinux-obmenu-generator-git
+#arcolinux-obmenu-generator-git
 #arcolinux-obmenu-generator-minimal-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
@@ -553,14 +553,14 @@ garcon
 gtk-xfce-engine
 thunar
 #xfce4-appfinder
-#xfce4-panel
+xfce4-panel
 #xfce4-power-manager
 xfce4-session
 #xfce4-settings
 #xfce4-terminal
-#xfconf
+xfconf
 xfdesktop
-#xfwm4
+xfwm4
 #xfwm4-themes
 
 
@@ -606,7 +606,7 @@ xfce4-taskmanager
 #Needed for Calamares installer
 calamares
 arcolinux-system-installation-git
-arcolinuxb-calamares-openbox-git
+arcolinuxb-calamares-lxqt-git
 ckbcomp
 upower
 kcoreaddons
