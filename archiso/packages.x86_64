@@ -548,8 +548,8 @@ arcolinux-xfce-thunar-git
 
 #xfce4 also for ArcoLinuxB iso builds
 #xfce4 group content
-exo
-garcon
+#exo
+#garcon
 gtk-xfce-engine
 thunar
 #xfce4-appfinder
@@ -558,9 +558,9 @@ xfce4-panel
 xfce4-session
 #xfce4-settings
 #xfce4-terminal
-xfconf
+#xfconf
 xfdesktop
-xfwm4
+#xfwm4
 #xfwm4-themes
 
 
