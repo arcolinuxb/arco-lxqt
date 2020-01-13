@@ -239,7 +239,7 @@ picom
 #darktable
 #deadbeef
 dmenu
-evolution
+#evolution
 feh
 firefox
 #flashplugin
@@ -752,3 +752,7 @@ pavucontrol-qt
 xscreensaver
 lxqt-arc-dark-theme-git
 ksuperkey
+lximage-qt
+trojita
+qpdfview
+obconfqt
