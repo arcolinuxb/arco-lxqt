@@ -308,7 +308,7 @@ gksu
 #glances
 gnome-disk-utility
 gnome-keyring
-#gnome-screenshot
+gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
 gparted
@@ -768,7 +768,7 @@ thunar-media-tags-plugin
 #xfce4-notifyd
 #xfce4-pulseaudio-plugin
 #xfce4-screensaver
-#xfce4-screenshooter
+xfce4-screenshooter
 #xfce4-sensors-plugin
 #xfce4-smartbookmark-plugin
 #xfce4-systemload-plugin
