@@ -597,10 +597,10 @@ arcolinux-lxqt-dconf-git
 #                                ARCOLINUX CALAMARES
 ###########################################################################
 
-arco-calamares
+#arco-calamares
 #arco-calamares-comp
 #arco-calamares-dev
-#arco-calamares-next
+arco-calamares-next
 arcolinux-system-installation-git
 #arcolinux-config-live-session-git
 arcolinux-welcome-app-git
@@ -787,12 +787,30 @@ xfce4-taskmanager
 #                                ISO SPECIFIC
 ###########################################################################
 
-lxqt
-pavucontrol-qt
+#lxqt - group - https://www.archlinux.org/groups/x86_64/lxqt/
+#lximage-qt
+lxqt-about
+lxqt-admin
+lxqt-config
+lxqt-globalkeys
+lxqt-notificationd
+lxqt-openssh-askpass
+lxqt-panel
+lxqt-policykit
+lxqt-powermanagement
+lxqt-qtplugin
+lxqt-runner
+lxqt-session
+lxqt-sudo
+lxqt-themes
 obconf-qt
+openbox
+pcmanfm-qt
+qterminal
+#screengrab
+
+pavucontrol-qt
 xscreensaver
 lxqt-arc-dark-theme-git
 ksuperkey
-#lximage-qt
-trojita
 qpdfview
