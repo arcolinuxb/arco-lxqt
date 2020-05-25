@@ -467,8 +467,8 @@ arcolinux-fonts-git
 arcolinux-grub-theme-vimix-git
 arcolinux-hblock-git
 arcolinux-keyring
-#arcolinux-kvantum-git
-arcolinux-kvantum-lxqt-git
+arcolinux-kvantum-git
+#arcolinux-kvantum-lxqt-git
 #arcolinux-kvantum-plasma-git
 arcolinux-lightdm-gtk-greeter
 #arcolinux-lightdm-gtk-greeter-plasma
