@@ -638,11 +638,11 @@ arcolinux-lxqt-dconf-git
 #                                ARCOLINUX CALAMARES
 ###########################################################################
 
-#arco-calamares
+arco-calamares
 #arco-calamares-comp
 #arco-calamares-dev
 #arco-calamares-git
-arco-calamares-next
+#arco-calamares-next
 arcolinux-system-installation-git
 #arcolinux-config-live-session-git
 arcolinux-welcome-app-git
