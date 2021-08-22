@@ -204,7 +204,7 @@ gstreamer
 libdvdcss
 pulseaudio
 pulseaudio-alsa
-#pavucontrol
+pavucontrol
 
 ###bluetooth
 blueberry
@@ -918,7 +918,6 @@ pcmanfm-qt
 qterminal
 #screengrab
 
-pavucontrol-qt
 xscreensaver
 lxqt-arc-dark-theme-git
 ksuperkey
