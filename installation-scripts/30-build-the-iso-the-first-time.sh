@@ -155,6 +155,8 @@ echo
 		echo "Adding our own repo to /etc/pacman.conf"
 		echo "Change these lines to reflect your own repo"
 		echo "Copy/paste these lines to add more repos"
+		printf "\n" | sudo tee -a ../work/archiso/pacman.conf
+		printf "\n" | sudo tee -a ../work/archiso/airootfs/etc/pacman.conf
 echo '
 [nemesis_repo]
 SigLevel = Optional TrustedOnly
@@ -204,6 +206,7 @@ echo
 
 	echo "Removing the old packages.x86_64 file from build folder"
 	rm $buildFolder/archiso/packages.x86_64
+	rm $buildFolder/archiso/packages-personal-repo.x86_64
 	echo
 	echo "Copying the new packages.x86_64 file to the build folder"
 	cp -f ../archiso/packages.x86_64 $buildFolder/archiso/packages.x86_64
