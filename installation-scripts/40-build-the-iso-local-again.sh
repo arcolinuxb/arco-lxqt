@@ -29,7 +29,7 @@ echo
 	desktop="lxqt"
 	dmDesktop="lxqt"
 
-	arcolinuxVersion='v24.02.03'
+	arcolinuxVersion='v24.02.04'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
